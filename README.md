@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Koyom1n
-- I'm still learning programming, and hope some day I'll be a good programmer :)
-- I'm learning Python, and interested in learning Java, JavaScript, HTML, CSS and Ruby
-- Find me in Instagram as @koyom1n if you want to reach me
+- I'm a back-end programmer, but i'm also interested in becoming fullstack
+- I have experience in Python, Django, and also JavaScript
+- I'm also interested in learning C, C+, C#, Ruby and Java
+- If you want to contact me, you can find me on Instagram as @koyom1n
+- Have a good day!
 
 <!---
 Koyom1n/Koyom1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
